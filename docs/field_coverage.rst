@@ -15,7 +15,7 @@ Cardinality
 Definition and Usage Instruction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The extent or scope of the content of the resource. Coverage will typically include temporal period (a period label, date, or date range) or jurisdiction (such as a named administrative entity).
+The extent or scope of the content of the resource. Coverage will typically include temporal period (a period label, date, or date range).
 
 **Usage Instruction**
 
@@ -29,19 +29,19 @@ It is recommended to use literal or non-literal values. If necessary, repeat thi
 Property coverage (R, 0-n)
 --------------------------
 
-Use temporal period or jurisdiction information as value.
+Use temporal period as value.
 
 Example
 ~~~~~~~
 
-Example Spatial: temporal topic:
+Date range:
 
 .. code-block:: xml
    :linenos:
 
    <dc:coverage>2000-2010</dc:coverage>
 
-Example Spatial: BOX:
+Period label:
 
 .. code-block:: xml
    :linenos:
