@@ -70,7 +70,7 @@ Uniquely identifies an individual or legal entity, according to various schemes 
 The format is dependent upon scheme.
 
 .. note::
-   OpenAIRE recommends including a nameIdentifier such as an ORCID or a ISNI if available.
+   OpenAIRE recommends including a nameIdentifier such as an ORCID or an ISNI if available.
 
 
 .. _dci:creator_nameIdentifier_nameIdentifierScheme:

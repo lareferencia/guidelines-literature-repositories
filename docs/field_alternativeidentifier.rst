@@ -24,7 +24,7 @@ An identifier or identifiers other than the primary Identifier applied to the re
 Property alternateIdentifier (R, 0-n)
 -------------------------------------
 
-Value of the atlernate identifier.
+Value of the alternate identifier.
 
 Attribute alternateIdentifierType (M)
 -------------------------------------

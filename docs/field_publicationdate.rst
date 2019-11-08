@@ -35,7 +35,7 @@ where:
 
 **One date field – Date of Publication:**
 
-Often repository systems have more then one date fields that serve different purposes. Date of creation, publication, modified, promotion, etc. Preferably in the end-users perspective the most logical and meaningful date will be the date of publication. 
+Often repository systems have more than one date fields that serve different purposes. Date of creation, publication, modified, promotion, etc. Preferably in the end-users perspective the most logical and meaningful date will be the date of publication. 
 
 **No date of publication available:**
 

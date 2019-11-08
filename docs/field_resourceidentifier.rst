@@ -31,7 +31,7 @@ Smart practice:
 
 * :ref:`dci:alternativeIdentifier` (Use ``datacite:alternativeIdentifier`` to list other identifiers than the primary identifier applied to the same resource.)
 * :ref:`dci:relatedIdentifier` (Use ``datacite:relatedIdentifier`` to refer to related resources.)
-* :ref:`aire:file` (Use ``oaire:file`` to point to the resource being desccribed by this metadata, e.g. the fulltext file.)
+* :ref:`aire:file` (Use ``oaire:file`` to point to the resource being described by this metadata, e.g. the fulltext file.)
 * :ref:`dc:source` (Use ``dc:source`` for bibliographic citation of the originating resource.)
 
 Property identifier (M, 1)

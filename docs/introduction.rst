@@ -43,7 +43,7 @@ How this document is structured
 
 Chapter two provides a brief overview of how to configure and use OAI-PMH for OpenAIRE metadata harvesting.
 Chapter three describes the application profile.
-It assignes properties from Dublin Core and DataCite metadata schemes to OpenAIRE fields.
+It assigns properties from Dublin Core and DataCite metadata schemes to OpenAIRE fields.
 Each OpenAIRE field is described in detail by
 
 * the name of the field
