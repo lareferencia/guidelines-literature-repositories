@@ -152,8 +152,8 @@ Example
        <datacite:geoLocationBox>
        		<datacite:westBoundLongitude>-71.032</datacite:westBoundLongitude>
         	<datacite:eastBoundLongitude>-68.211</datacite:eastBoundLongitude>
-       		<datacite:southBoundLongitude>41.090</datacite:southBoundLongitude>
-       		<datacite:northBoundLongitude>42.893</datacite:northBoundLongitude>
+       		<datacite:southBoundLatitude>41.090</datacite:southBoundLatitude>
+       		<datacite:northBoundLatitude>42.893</datacite:northBoundLatitude>
        </datacite:geoLocationBox>
      </datacite:geoLocation>
    </datacite:geoLocations>
